@@ -1,3 +1,7 @@
+#Simulation derivated files
+*.PWI
+*.DBK
+
 # Prerequisites
 *.d
 
